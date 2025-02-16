@@ -20,7 +20,7 @@
                 <div class="words line1">To: anomali pandak</div>
                 <div class="words line2">u're the most beautiful</div>
                 <div class="words line3">and the cutest gal, in ma world</div>
-                <div class="words line4">lovee u, pretty gal</div>
+                <div class="words line4">lovee u, ma pretty gal</div>
             </div>
             <div class="hearts">
                 <div class="heart a1"></div>
