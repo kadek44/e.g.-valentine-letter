@@ -17,9 +17,9 @@
             <div class="front flap"></div>
             <div class="front pocket"></div>
             <div class="letter">
-                <div class="words line1">To: kamuuu</div>
+                <div class="words line1">To: anomali pandak</div>
                 <div class="words line2">u're the most beautiful gal</div>
-                <div class="words line3">walau tengal</div>
+                <div class="words line3">dikitin bengkungnya</div>
                 <div class="words line4">lovee u, anak kecil</div>
             </div>
             <div class="hearts">
